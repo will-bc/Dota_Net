@@ -14,7 +14,7 @@ Say if you can play or not and other important statisticals stuffs.
 
 ## tips
 
-Leave running **ping_database.m** for as long as the computer is connected unused.
+Leave running _ping_database.m_ for as long as the computer is connected unused.
 
 
 -- The first version, it has some bugs --
