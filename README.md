@@ -6,7 +6,7 @@ No one likes to play dota and in the middle of the match drop the internet and /
 
 > Execute: ping_database.m
 
-Wait for the time you want. When more is better. The script Creates a database of net stability.
+Wait for the time you want. When more is better. The script creates a database of net stability.
 
 > Execute: dota_net.m
 
