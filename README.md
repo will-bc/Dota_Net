@@ -1,6 +1,6 @@
 # Dota_Net v.1.0   (MatLab version) 
 
-No one like to play dota and in the middle of the match drop the internet and / or has delay actions. Worse of scenario is go to low. Because of this I created a script to makes a diagnosis of the internet and says if it is safe for you to play or not.
+No one like to play dota and in the middle of the match drop the internet and / or has delay actions. Worse of scenario is go to low. Because of this I created dota net to make a diagnosis of the internet and says if it is safe for you to play or not.
 
 ## How to execute
 
