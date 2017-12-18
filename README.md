@@ -8,7 +8,13 @@ Download all the scripts.
 
 > Execute: ping_database.m
 
-Wait for the time you want. When more is better. The script creates a database of net stability.
+Wait for the time you want. How much more is better. The script creates a database of net stability.
+
+To follow next steps:
+
+> Cancel: ping_data base.m
+
+'ctrl + C'
 
 > Execute: dota_net.m
 
