@@ -12,9 +12,9 @@ Wait for the time you want. How much more is better. The script creates a databa
 
 To follow next steps:
 
-> Cancel: ping_data base.m
+> Cancel: ping_database.m
 
-'ctrl + C'
+In case you don't know how to cancel: 'ctrl + C'
 
 > Execute: dota_net.m
 
