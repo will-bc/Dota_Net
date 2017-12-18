@@ -1,4 +1,4 @@
-# Dota_Net v.1.0   (MatLab version) 
+# Dota_Net v.0.0001   (MatLab version) 
 
 No one like to play dota and in the middle of the match drop the internet and / or has delay actions. Worse of scenario is go to low. Because of this I created dota net to make a diagnosis of the internet and says if it is safe for you to play or not.
 
@@ -24,5 +24,8 @@ Say if you can play or not and other important statisticals stuffs.
 
 Leave running _ping_database.m_ for as long as the computer is connected unused.
 
+## Additional Information
 
--- The first version, it has some bugs --
+**OS** : Windows
+
+-- First version, it has some bugs. Report them if you find.  --
