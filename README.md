@@ -4,6 +4,8 @@ No one like to play dota and in the middle of the match drop the internet and / 
 
 ## How to execute
 
+Download all the scripts.
+
 > Execute: ping_database.m
 
 Wait for the time you want. When more is better. The script creates a database of net stability.
